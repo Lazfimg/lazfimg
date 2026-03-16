@@ -1,4 +1,5 @@
-## Hi there 👋
+## About
+Just an ordinary person
 
 <!--
 **Lazfimg/lazfimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
